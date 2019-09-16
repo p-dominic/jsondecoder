@@ -1,1 +1,1 @@
-# Self Exam to parse data from rest api
+# Parse Rest Api
